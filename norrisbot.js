@@ -15,7 +15,7 @@ var controller = Botkit.slackbot();
 var NorrisBot = function Constructor(settings) {
 
     var bot = controller.spawn({
-        token: 'xoxb-18813541461-SYci8m736nQaSlAqqSNLOlJq'
+        token: ''
     });
 };
 
